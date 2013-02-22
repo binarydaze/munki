@@ -1,0 +1,4 @@
+munki
+=====
+
+Munki pkginfo files
